@@ -1,0 +1,19 @@
+COMMANDES LUDOBAGS (Fix Syntax v5)
+
+=== Welcome Bag ===
+/give @p minecraft:slime_ball[item_name='{"text":"Welcome Bag","color":"blue","italic":false}',custom_model_data=10,max_stack_size=1,enchantment_glint_override=true,food={nutrition:0,saturation:0,can_always_eat:true,eat_seconds:1.5},custom_data={ludobag_id:"welcome"}]
+
+=== Ludobag Mega ===
+/give @p minecraft:slime_ball[item_name='{"text":"Ludobag Mega","color":"light_purple","italic":false}',custom_model_data=1,max_stack_size=1,enchantment_glint_override=true,food={nutrition:0,saturation:0,can_always_eat:true,eat_seconds:1.5},custom_data={ludobag_id:"mega"}]
+
+=== Ludobag Gym ===
+/give @p minecraft:slime_ball[item_name='{"text":"Ludobag Gym","color":"red","italic":false}',custom_model_data=2,max_stack_size=1,enchantment_glint_override=true,food={nutrition:0,saturation:0,can_always_eat:true,eat_seconds:1.5},custom_data={ludobag_id:"gym"}]
+
+=== Ludobag Legend ===
+/give @p minecraft:slime_ball[item_name='{"text":"Ludobag Legend","color":"gold","italic":false}',custom_model_data=3,max_stack_size=1,enchantment_glint_override=true,food={nutrition:0,saturation:0,can_always_eat:true,eat_seconds:1.5},custom_data={ludobag_id:"legend"}]
+
+=== Ludobag Evolution ===
+/give @p minecraft:slime_ball[item_name='{"text":"Ludobag Evolution","color":"green","italic":false}',custom_model_data=4,max_stack_size=1,enchantment_glint_override=true,food={nutrition:0,saturation:0,can_always_eat:true,eat_seconds:1.5},custom_data={ludobag_id:"evolution"}]
+
+=== Ludobag Template ===
+/give @p minecraft:slime_ball[item_name='{"text":"Ludobag Template","color":"gray","italic":false}',custom_model_data=99,max_stack_size=1,enchantment_glint_override=true,food={nutrition:0,saturation:0,can_always_eat:true,eat_seconds:1.5},custom_data={ludobag_id:"template"}]

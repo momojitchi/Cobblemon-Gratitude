@@ -1,0 +1,13 @@
+name = "DisplayScoreboard"
+filename = "displayscoreboard-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "539df07f1b7862d6b654c54487325b3ac50e9ab2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7589238
+project-id = 1456334

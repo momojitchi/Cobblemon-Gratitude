@@ -1,0 +1,36 @@
+{
+  "name": "Worker Willy",
+  "team": [
+    {
+      "species": "onix",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "smackdown",
+        "curse",
+        "screech",
+        "sandtomb"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "graveler",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "sandstorm",
+        "harden",
+        "smackdown",
+        "bulldoze"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

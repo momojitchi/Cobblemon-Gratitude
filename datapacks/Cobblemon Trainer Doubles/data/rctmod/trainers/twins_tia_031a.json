@@ -1,0 +1,20 @@
+{
+  "name": "Twins Tia",
+  "team": [
+    {
+      "species": "clefairy",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "timid",
+      "ability": "magicguard",
+      "moveset": [
+        "disarmingvoice",
+        "encore",
+        "defensecurl",
+        "lifedew"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

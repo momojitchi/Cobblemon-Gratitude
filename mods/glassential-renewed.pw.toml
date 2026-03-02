@@ -1,0 +1,13 @@
+name = "Glassential Renewed"
+filename = "Glassential-renewed-fabric-1.21.1-3.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cca7ddb1b191b414e577f75693afcf80fc3be878"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6986547
+project-id = 945149

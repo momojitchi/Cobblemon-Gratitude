@@ -1,0 +1,10 @@
+{
+  "item": "minecraft:glistering_melon_slice",
+  "effects": [
+    {
+      "type": "cobblemon:shiny_reroll",
+      "chance": 1.0,
+      "value": 0.25
+    }
+  ]
+}

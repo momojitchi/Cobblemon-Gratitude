@@ -1,0 +1,347 @@
+#  Main header!
+#  Line 2
+
+[songs]
+	[[songs.alola_badlands]]
+		triggers = [ "biome-biome_Volcanic" ]
+		volume = "0.15"
+	[[songs.alola_badlands]]
+		triggers = [ "biome-biome_Badlands" ]
+		volume = "0.15"
+	[songs.alola_beach]
+		triggers = [ "biome-biome_Beach" ]
+		volume = "0.15"
+	[songs.alola_dark]
+		triggers = [ "biome-biome_DeepDark" ]
+		volume = "0.15"
+	[songs.alola_desert]
+		triggers = [ "biome-biome_Desert" ]
+		volume = "0.15"
+	[songs.alola_jungle]
+		triggers = [ "biome-biome_Jungle" ]
+		volume = "0.15"
+	[[songs.alola_mountain]]
+		triggers = [ "biome-biome_Glacial" ]
+		volume = "0.15"
+	[[songs.alola_mountain]]
+		triggers = [ "biome-biome_Snowy" ]
+		volume = "0.15"
+	[[songs.alola_mountain]]
+		triggers = [ "biome-biome_Mountain" ]
+		volume = "0.15"
+	[[songs.alola_mountain]]
+		triggers = [ "biome-biome_Taiga" ]
+		volume = "0.15"
+	[[songs.alola_mysterious]]
+		triggers = [ "biome-biome_Mushroom" ]
+		volume = "0.15"
+	[[songs.alola_mysterious]]
+		triggers = [ "biome-biome_Swamp" ]
+		volume = "0.15"
+	[[songs.alola_plain]]
+		triggers = [ "biome-biome_Savanna" ]
+		volume = "0.15"
+	[[songs.alola_plain]]
+		triggers = [ "biome-biome_Plains" ]
+		volume = "0.15"
+	[[songs.alola_plain]]
+		triggers = [ "biome-biome_Forest" ]
+		volume = "0.15"
+	[songs.alola_spooky]
+		triggers = [ "biome-biome_Spooky" ]
+		volume = "0.15"
+	[songs.biome_aquatic]
+		triggers = [ "biome-biome_AllOceans" ]
+		volume = "0.15"
+	[songs.biome_beach]
+		triggers = [ "biome-biome_Beach" ]
+		volume = "0.15"
+	[songs.biome_dark]
+		triggers = [ "biome-biome_DeepDark" ]
+		volume = "0.15"
+	[songs.biome_end]
+		triggers = [ "biome-biome_End" ]
+		volume = "0.15"
+	[[songs.biome_magical]]
+		triggers = [ "biome-biome_CherryBlossom" ]
+		volume = "0.15"
+	[[songs.biome_magical]]
+		triggers = [ "biome-biome_Magical" ]
+		volume = "0.15"
+	[songs.biome_surf]
+		triggers = [ "biome-biome_AllOceans" ]
+		volume = "0.15"
+	[songs.biome_underground]
+		triggers = [ "biome-biome_Underground", "height-height_Underground" ]
+		volume = "0.15"
+	[songs.biome_underwater]
+		triggers = [ "biome-biome_AllOceans", "height-height_Underground" ]
+		volume = "0.15"
+	[songs.hub_music]
+		triggers = [ "zones-zone_Hub" ]
+		volume = "0.25"
+	[songs.legendary_theme]
+		triggers = [ "structure-structure_Legendary" ]
+		volume = "0.25"
+	[songs.pokelabo]
+		triggers = [ "zones-zone_Laboratory" ]
+		volume = "0.25"
+	[songs.pokemart]
+		triggers = [ "zones-zone_PokeMart" ]
+		volume = "0.25"
+	[[songs.pokemon_center]]
+		triggers = [ "zones-zone_PokeCenter" ]
+		volume = "0.25"
+	[[songs.pokemon_center]]
+		triggers = [ "structure-structure_Pokecenter" ]
+		volume = "0.25"
+	[songs.pokemon_gym]
+		triggers = [ "biome-biome_Gym" ]
+		volume = "0.25"
+	[songs.pokeschool]
+		triggers = [ "zones-zone_Academy" ]
+		volume = "0.25"
+	[songs.pokestcg]
+		triggers = [ "zones-zone_CardShop" ]
+		volume = "0.25"
+	[songs.raid_music]
+		triggers = [ "dimension-dimension_Raid" ]
+		volume = "0.25"
+	[songs.indigo_disk]
+		triggers = [ "dimension-dimension_Safari" ]
+		volume = "0.15"
+	[songs.universal]
+		pitch = 1.0
+		play_once = 0
+		speed = 1.0
+		volume = 1.0
+		[songs.universal.interrupt_handler]
+			priority = 2147483647
+			trigger_whitelist = [ ]
+
+[triggers]
+	[[triggers.biome]]
+		identifier = "biome_Gym"
+		priority = "4100"
+		resource_matcher = "exact"
+		resource_name = [ "rad-gyms:gym_biome" ]
+	[[triggers.biome]]
+		identifier = "biome_DeepDark"
+		priority = "3150"
+		resource_matcher = "partial"
+		resource_name = [ "deep_dark", "abyssal" ]
+	[[triggers.biome]]
+		identifier = "biome_Underground"
+		priority = "3150"
+		resource_matcher = "partial"
+		resource_name = [ "cave", "cavern", "chasm", "underground", "depths", "dripstone" ]
+	[[triggers.biome]]
+		identifier = "biome_Magical"
+		priority = "3150"
+		resource_matcher = "partial"
+		resource_name = [ "lush", "dripstone", "amethyst", "moonlight", "magic", "garden", "enchanted", "skyris" ]
+	[[triggers.biome]]
+		identifier = "biome_AllOceans"
+		priority = "2800"
+		resource_matcher = "partial"
+		resource_name = [ "ocean", "sea", "deep_ocean", "deep_lukewarm", "deep_cold", "deep_frozen" ]
+	[[triggers.biome]]
+		identifier = "biome_End"
+		priority = "2500"
+		resource_matcher = "partial"
+		resource_name = [ "the_end", "end_", "end_highlands", "end_midlands", "small_end_islands", "end_barrens" ]
+	[[triggers.biome]]
+		identifier = "biome_Mushroom"
+		priority = "2500"
+		resource_matcher = "partial"
+		resource_name = [ "mushroom", "fungal", "fungi" ]
+	[[triggers.biome]]
+		identifier = "biome_Volcanic"
+		priority = "2500"
+		resource_matcher = "partial"
+		resource_name = [ "volcan", "magma", "ash", "cinder", "basalt", "infernal" ]
+	[[triggers.biome]]
+		identifier = "biome_CherryBlossom"
+		priority = "2500"
+		resource_matcher = "partial"
+		resource_name = [ "cherry", "sakura" ]
+	[[triggers.biome]]
+		identifier = "biome_Spooky"
+		priority = "2500"
+		resource_matcher = "partial"
+		resource_name = [ "dark_forest", "spooky", "dead", "soul", "crimson", "warped", "wither", "wasteland", "ominous", "black_forest", "ebony", "forgotten", "witch" ]
+	[[triggers.biome]]
+		identifier = "biome_Desert"
+		priority = "2400"
+		resource_matcher = "partial"
+		resource_name = [ "desert", "dune", "sand", "outback" ]
+	[[triggers.biome]]
+		identifier = "biome_Badlands"
+		priority = "2400"
+		resource_matcher = "partial"
+		resource_name = [ "badland", "mesa", "red_sand", "red_rock" ]
+	[[triggers.biome]]
+		identifier = "biome_Glacial"
+		priority = "2400"
+		resource_matcher = "partial"
+		resource_name = [ "spike", "glacial", "glacier" ]
+	[[triggers.biome]]
+		identifier = "biome_Snowy"
+		priority = "2400"
+		resource_matcher = "partial"
+		resource_name = [ "snow", "frozen", "ice", "icy", "wintry", "cold", "subzero", "tundra", "frosted", "boreal" ]
+	[[triggers.biome]]
+		identifier = "biome_Swamp"
+		priority = "2300"
+		resource_matcher = "partial"
+		resource_name = [ "swamp", "mangrove", "marsh", "bog", "fen", "bayou", "mire", "gour" ]
+	[[triggers.biome]]
+		identifier = "biome_Jungle"
+		priority = "2300"
+		resource_matcher = "partial"
+		resource_name = [ "jungle", "bamboo", "tropic", "rainforest" ]
+	[[triggers.biome]]
+		identifier = "biome_Beach"
+		priority = "2300"
+		resource_matcher = "partial"
+		resource_name = [ "beach", "shore", "coast" ]
+	[[triggers.biome]]
+		identifier = "biome_Savanna"
+		priority = "2200"
+		resource_matcher = "partial"
+		resource_name = [ "savanna", "brushland", "steppe", "scrub", "chaparral" ]
+	[[triggers.biome]]
+		identifier = "biome_Taiga"
+		priority = "2200"
+		resource_matcher = "partial"
+		resource_name = [ "taiga", "pine", "spruce", "conifer", "shield" ]
+	[[triggers.biome]]
+		identifier = "biome_Mountain"
+		priority = "2200"
+		resource_matcher = "partial"
+		resource_name = [ "mountain", "peak", "cliff", "crag", "alp", "highland", "summit", "slope", "ridge", "range" ]
+	[[triggers.biome]]
+		identifier = "biome_Forest"
+		priority = "2200"
+		resource_matcher = "partial"
+		resource_name = [ "forest", "wood", "birch", "grove", "orchard", "thicket", "redwood" ]
+	[[triggers.biome]]
+		identifier = "biome_Plains"
+		priority = "2200"
+		resource_matcher = "partial"
+		resource_name = [ "plains", "meadow", "field", "grassland", "prairie", "valley", "shrubland", "river", "hill" ]
+	[[triggers.dimension]]
+		identifier = "dimension_Raid"
+		priority = "4100"
+		resource_matcher = "exact"
+		resource_name = [ "cobblemonraiddens:raid_dimension" ]
+	[[triggers.dimension]]
+		identifier = "dimension_Safari"
+		priority = "4100"
+		resource_matcher = "partial"
+		resource_name = [ "academy:safari" ]
+	[triggers.height]
+		check_above_level = "true"
+		fade_in = "100"
+		fade_out = "100"
+		identifier = "height_Underground"
+		level = "50"
+		priority = "2250"
+	[[triggers.structure]]
+		fade_in = "20"
+		fade_out = "40"
+		identifier = "structure_Legendary"
+		priority = "3250"
+		resource_matcher = "partial"
+		resource_name = [ "legendarymonuments" ]
+	[[triggers.structure]]
+		fade_in = "10"
+		fade_out = "30"
+		identifier = "structure_Pokecenter"
+		priority = "3200"
+		resource_matcher = "exact"
+		resource_name = [ "cobblemon_simple_center:pokecenter" ]
+	[triggers.universal]
+		active_cooldown = "0"
+		fade_in = "100"
+		fade_out = "100"
+		persistence = "0"
+		song_delay = "0"
+		start_delay = "0"
+		stop_delay = "0"
+		ticks_before_active = "0"
+		ticks_before_audio = "0"
+		ticks_between_audio = "0"
+		trigger_delay = "0"
+	[[triggers.zones]]
+		fade_in = "10"
+		fade_out = "30"
+		identifier = "zone_PokeCenter"
+		persistence = "0"
+		priority = "3400"
+		zone_max_x = "145"
+		zone_max_y = "73"
+		zone_max_z = "44"
+		zone_min_x = "129"
+		zone_min_y = "58"
+		zone_min_z = "26"
+	[[triggers.zones]]
+		fade_in = "10"
+		fade_out = "30"
+		identifier = "zone_PokeMart"
+		persistence = "0"
+		priority = "3400"
+		zone_max_x = "66"
+		zone_max_y = "77"
+		zone_max_z = "64"
+		zone_min_x = "45"
+		zone_min_y = "45"
+		zone_min_z = "46"
+	[[triggers.zones]]
+		fade_in = "10"
+		fade_out = "30"
+		identifier = "zone_Academy"
+		persistence = "0"
+		priority = "3400"
+		zone_max_x = "120"
+		zone_max_y = "90"
+		zone_max_z = "-46"
+		zone_min_x = "60"
+		zone_min_y = "58"
+		zone_min_z = "-87"
+	[[triggers.zones]]
+		fade_in = "10"
+		fade_out = "30"
+		identifier = "zone_Laboratory"
+		persistence = "0"
+		priority = "3400"
+		zone_max_x = "115"
+		zone_max_y = "96"
+		zone_max_z = "121"
+		zone_min_x = "88"
+		zone_min_y = "70"
+		zone_min_z = "98"
+	[[triggers.zones]]
+		fade_in = "10"
+		fade_out = "30"
+		identifier = "zone_CardShop"
+		persistence = "0"
+		priority = "3400"
+		zone_max_x = "44"
+		zone_max_y = "74"
+		zone_max_z = "40"
+		zone_min_x = "31"
+		zone_min_y = "58"
+		zone_min_z = "20"
+	[[triggers.zones]]
+		fade_in = "10"
+		fade_out = "30"
+		identifier = "zone_Hub"
+		persistence = "0"
+		priority = "3300"
+		zone_max_x = "200"
+		zone_max_y = "120"
+		zone_max_z = "130"
+		zone_min_x = "-30"
+		zone_min_y = "57"
+		zone_min_z = "-110"

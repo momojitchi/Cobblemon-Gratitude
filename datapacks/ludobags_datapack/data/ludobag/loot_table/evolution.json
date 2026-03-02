@@ -1,0 +1,11 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        { "type": "minecraft:item", "name": "minecraft:magma_cream", "weight": 50 },
+        { "type": "minecraft:item", "name": "minecraft:echo_shard", "weight": 50 }
+      ]
+    }
+  ]
+}

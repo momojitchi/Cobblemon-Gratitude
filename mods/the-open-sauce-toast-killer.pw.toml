@@ -1,0 +1,13 @@
+name = "The Open Sauce Toast Killer"
+filename = "OpenSauceToastKiller.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79bacc90ca7a1172676774f9f3cfe52e46fc63b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4836957
+project-id = 923372

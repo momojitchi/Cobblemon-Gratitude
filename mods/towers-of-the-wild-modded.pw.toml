@@ -1,0 +1,13 @@
+name = "Towers of the Wild Modded"
+filename = "totw_modded-fabric-1.21-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1f85003d8584fd05b30dee552b230ec683826deb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6691985
+project-id = 859365

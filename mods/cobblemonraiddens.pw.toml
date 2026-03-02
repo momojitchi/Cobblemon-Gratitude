@@ -1,0 +1,13 @@
+name = "Cobblemon Raid Dens"
+filename = "cobblemonraiddens-fabric-0.7.3+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b267a8eb2c0489fc79b640314bf5d34a2fc3d421"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7593561
+project-id = 1349231

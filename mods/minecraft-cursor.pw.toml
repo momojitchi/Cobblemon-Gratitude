@@ -1,0 +1,13 @@
+name = "Cursors Extended"
+filename = "minecraft-cursor-fabric-3.10.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70739c9ab84d651cfe1534764035a9e0130a2605"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6902469
+project-id = 1184736

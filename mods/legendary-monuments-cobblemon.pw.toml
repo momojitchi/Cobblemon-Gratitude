@@ -1,0 +1,13 @@
+name = "Cobblemon: Legendary Monuments"
+filename = "LegendaryMonuments-7.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97a76d52e5620dd0c354837dcf189d8894fea6cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7564172
+project-id = 1263645

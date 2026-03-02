@@ -1,0 +1,36 @@
+{
+  "name": "Pok\u00c3\u00a9mon Ranger Taylor",
+  "team": [
+    {
+      "species": "luxio",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "voltswitch",
+        "crunch",
+        "discharge"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "floatzel",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "icefang",
+        "crunch",
+        "aquajet",
+        "waterfall"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

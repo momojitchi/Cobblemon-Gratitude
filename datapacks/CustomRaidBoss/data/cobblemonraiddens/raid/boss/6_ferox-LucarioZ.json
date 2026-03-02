@@ -1,0 +1,57 @@
+{
+    "pokemon": {
+        "species": "lucario",
+        "nature": "modest",
+        "level": 75,
+        "moves": [
+            "steelbeam",
+            "aurasphere",
+            "focusblast",
+            "flashcannon"
+        ]
+    },
+    "boss": {
+        "min_perfect_ivs": 6,
+        "level": 75,
+        "evs": {
+            "spa": 252,
+            "spe": 252,
+            "spd": 4
+        },
+         
+        "aspects": [],
+        "form": "",
+        "custom_properties": [
+            {
+                "name": "mega_evolution",
+                "value": "mega_z"
+            }
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "STEEL",
+    "raid_feature": "MEGA",
+    "loot_table": "cobblemonraiddens:raid/boss/lucario_mega_z",  
+    "weight": 20.0,
+    "den": [
+        "cobblemonraiddens:raid_den/fightingarena"
+         
+    ],
+    "boss_bar_text": {
+        "translate": "cobblemon.species.lucario.name",
+        "type": "translatable"
+    },
+    "max_players": 8,
+    "max_clears": 3,
+ 
+    "shiny_rate": 262,
+    "currency": 250000,
+    "max_catches": -1,
+ 
+    "raid_ai": "RCT",
+    "marks": [
+        "cobblemon:mark_mightiest"
+    ],
+    "lives": 1,
+    "energy": 25
+}

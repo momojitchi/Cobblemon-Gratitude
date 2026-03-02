@@ -1,0 +1,13 @@
+name = "bad packets"
+filename = "badpackets-fabric-0.8.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5479129bfeaaad1ff2f8c5ebbda8a6dc7c4d7aaf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6067144
+project-id = 615134

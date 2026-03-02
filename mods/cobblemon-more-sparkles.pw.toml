@@ -1,0 +1,13 @@
+name = "Cobblemon More Sparkles"
+filename = "MoreSparkles-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c5bfac649b4f47785370b9cdf5af29d508e4bd3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7060325
+project-id = 1300858

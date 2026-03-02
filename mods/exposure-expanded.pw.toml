@@ -1,0 +1,13 @@
+name = "Exposure: Expanded"
+filename = "exposure_expanded-fabric-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d3a43b3c588fa5e5af186fe4bcf128dda9ef3d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6959717
+project-id = 1266524

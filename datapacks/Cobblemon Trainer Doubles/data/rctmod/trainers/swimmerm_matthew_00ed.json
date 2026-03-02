@@ -1,0 +1,50 @@
+{
+  "name": "Swimmer\u00e2\u2122\u201a Matthew",
+  "team": [
+    {
+      "species": "poliwhirl",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "naive",
+      "ability": "damp",
+      "moveset": [
+        "bellydrum",
+        "wakeupslap",
+        "hydropump",
+        "mudbomb"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "slowbro",
+      "gender": "FEMALE",
+      "level": 63,
+      "nature": "quirky",
+      "ability": "owntempo",
+      "moveset": [
+        "amnesia",
+        "psychic",
+        "raindance",
+        "psychup"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

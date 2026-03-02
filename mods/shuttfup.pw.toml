@@ -1,0 +1,13 @@
+name = "Shuttfup"
+filename = "Stfu-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d7182379fbb1f64c0bb19bfeb73db191f209a579"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5776223
+project-id = 1111802

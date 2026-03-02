@@ -1,0 +1,13 @@
+name = "Easy NPC"
+filename = "easy_npc_bundle-fabric-1.21.1-6.8.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f0baafbb1d054123bedd5ed482cbc301b0f0e41"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7592648
+project-id = 559312

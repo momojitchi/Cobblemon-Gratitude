@@ -1,0 +1,13 @@
+name = "Cobblemon Economy"
+filename = "cobblemon-economy-0.0.16.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa8261a5f1f9008de1a8b2f6de1e0f5716201950"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7601549
+project-id = 1437367

@@ -1,0 +1,193 @@
+{
+  "type": "loot_table",
+    "pools": [
+      {
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 3.0,
+                  "min": 1.0
+                },
+                "function": "minecraft:set_count",
+                "components": {
+                  "cobblemon:ride_boosts": {
+                    "boosts": {
+                      "acceleration": 1,
+                      "speed": 1,
+                      "skill": 1,
+                      "stamina": 1,
+                      "jump": 1
+                    }
+                  }
+                }
+              }
+            ],
+            "name": "cobblemon:aprijuice_red",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 3.0,
+                  "min": 1.0
+                },
+                "function": "minecraft:set_count",
+                "components": {
+                  "cobblemon:ride_boosts": {
+                    "boosts": {
+                      "acceleration": 1,
+                      "speed": 1,
+                      "skill": 1,
+                      "stamina": 1,
+                      "jump": 1
+                    }
+                  }
+                }
+              }
+            ],
+            "name": "cobblemon:aprijuice_yellow",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 3.0,
+                  "min": 1.0
+                },
+                "function": "minecraft:set_count",
+                "components": {
+                  "cobblemon:ride_boosts": {
+                    "boosts": {
+                      "acceleration": 1,
+                      "speed": 1,
+                      "skill": 1,
+                      "stamina": 1,
+                      "jump": 1
+                    }
+                  }
+                }
+              }
+            ],
+            "name": "cobblemon:aprijuice_green",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 3.0,
+                  "min": 1.0
+                },
+                "function": "minecraft:set_count",
+                "components": {
+                  "cobblemon:ride_boosts": {
+                    "boosts": {
+                      "acceleration": 1,
+                      "speed": 1,
+                      "skill": 1,
+                      "stamina": 1,
+                      "jump": 1
+                    }
+                  }
+                }
+              }
+            ],
+            "name": "cobblemon:aprijuice_blue",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 3.0,
+                  "min": 1.0
+                },
+                "function": "minecraft:set_count",
+                "components": {
+                  "cobblemon:ride_boosts": {
+                    "boosts": {
+                      "acceleration": 1,
+                      "speed": 1,
+                      "skill": 1,
+                      "stamina": 1,
+                      "jump": 1
+                    }
+                  }
+                }
+              }
+            ],
+            "name": "cobblemon:aprijuice_pink",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 3.0,
+                  "min": 1.0
+                },
+                "function": "minecraft:set_count",
+                "components": {
+                  "cobblemon:ride_boosts": {
+                    "boosts": {
+                      "acceleration": 1,
+                      "speed": 1,
+                      "skill": 1,
+                      "stamina": 1,
+                      "jump": 1
+                    }
+                  }
+                }
+              }
+            ],
+            "name": "cobblemon:aprijuice_white",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 3.0,
+                  "min": 1.0
+                },
+                "function": "minecraft:set_count",
+                "components": {
+                  "cobblemon:ride_boosts": {
+                    "boosts": {
+                      "ACCELERATION": 1,
+                      "SPEED": 1,
+                      "SKILL": 1,
+                      "stamina": 1,
+                      "JUMP": 1
+                    }
+                  }
+                }
+              }
+            ],
+            "name": "cobblemon:aprijuice_black",
+            "weight": 1
+          }
+        ],
+        "rolls": 1.0
+      }
+    ]
+  }

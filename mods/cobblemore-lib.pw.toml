@@ -1,0 +1,13 @@
+name = "Cobblemore Lib"
+filename = "cobblemore_lib-fabric-1.2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e9d0b91d2f1f0cc6524d4bcc34eb162761d854b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7423852
+project-id = 1275153

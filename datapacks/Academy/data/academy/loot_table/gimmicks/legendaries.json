@@ -1,0 +1,221 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:urn_of_frost",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:urn_of_storms",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:urn_of_embers",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:galarian_urn_of_frost",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:galarian_urn_of_storms",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:galarian_urn_of_embers",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:old_sea_map",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:raikou_treat",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:entei_treat",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:suicune_treat",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:vortex_stone",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:rainbow_feather",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:gs_ball",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:rock_golem_key",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:ice_golem_key",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:steel_golem_key",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:electric_golem_key",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:dragon_golem_key",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:latias_treat",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:latios_treat",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:titan_key",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:fullmoon_whistle",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:newmoon_whistle",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:magma_stone",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:proof_of_conquest_m",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:proof_of_conquest_a",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:proof_of_conquest_u",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:red_chain",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:cobalion_footprints",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:terrakion_footprints",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:virizion_footprints",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:lightstone",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:darkstone",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:truthbottle",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:idealsbottle",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:liberty_pass",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:temple_key",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:cosmic_bag",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:meltan_box",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:herosword",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:heroshield",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendarymonuments:griseous_key",
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

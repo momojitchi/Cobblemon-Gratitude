@@ -1,0 +1,13 @@
+name = "Nametag (Display) Tweaks"
+filename = "nametagtweaks-1.3.5+1.21-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2efc34c1f077679a8b13c98d18ee6f15ee7835b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5796451
+project-id = 1091700

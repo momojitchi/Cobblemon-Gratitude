@@ -1,0 +1,35 @@
+{
+  "name": "Aroma Lady Teighler",
+  "team": [
+    {
+      "species": "budew",
+      "gender": "MALE",
+      "level": 7,
+      "nature": "timid",
+      "ability": "poisonpoint",
+      "moveset": [
+        "absorb",
+        "growth",
+        "stunspore",
+        "worryseed"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "cherubi",
+      "gender": "MALE",
+      "level": 7,
+      "nature": "timid",
+      "ability": "chlorophyll",
+      "moveset": [
+        "morningsun",
+        "tackle",
+        "leafage"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

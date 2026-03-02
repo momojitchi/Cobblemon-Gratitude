@@ -1,0 +1,13 @@
+name = "Stohun's Vanity Collection"
+filename = "stohuns_vanity_collection-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01ba46855d8ae10d3edfe59ce7b60edef8dcd59e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7076963
+project-id = 1360604

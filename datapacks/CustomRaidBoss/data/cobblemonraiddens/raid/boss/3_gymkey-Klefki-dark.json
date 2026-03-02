@@ -1,0 +1,50 @@
+{
+    "pokemon": {
+        "species": "klefki",
+        "ability": "prankster",
+        "nature": "bold",
+        "level": 35,
+        "moves": [
+            "terablast",
+            "foulplay",
+            "lightscreen",
+            "reflect"
+        ]
+    },
+    "boss": {
+        "min_perfect_ivs": 6,
+        "level": 35,
+        "evs": {
+            "hp": 252,
+            "def": 252,
+            "spd": 4
+        },
+
+        "aspects": [],
+        "form": "",
+        "custom_properties": []
+    },
+    "raid_tier": "TIER_THREE",
+    "raid_type": "DARK",
+    "raid_feature": "TERA",
+    "loot_table": "cobblemonraiddens:raid/boss/klefki_gymkey_dark",
+    "weight": 20.0,
+    "den": [
+        "cobblemonraiddens:raid_den/radical"
+    ],
+    "boss_bar_text": {
+        "translate": "cobblemon.species.klefki.name",
+        "type": "translatable"
+    },
+    "max_players": 8,
+    "max_clears": 3,
+    "shiny_rate": 2096,
+    "currency": 5000,
+    "max_catches": -1,
+    "raid_ai": "STRONG",
+    "marks": [
+        "cobblemon:mark_personality_smiley"
+    ],
+    "lives": 1,
+    "energy": 10
+}

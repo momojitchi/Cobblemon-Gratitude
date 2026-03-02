@@ -1,0 +1,25 @@
+{
+  "equipment": {
+    "MAINHAND": {
+      "id": "academy:acceptance_letter",
+      "nbt": {},
+      "count": 1
+    },
+    "OFFHAND": { "id": "air", "nbt": {}, "count": 0 },
+    "FEET": { "id": "air", "nbt": {}, "count": 0 },
+    "LEGS": { "id": "air", "nbt": {}, "count": 0 },
+    "CHEST": { "id": "air", "nbt": {}, "count": 0 },
+    "HEAD": { "id": "air", "nbt": {}, "count": 0 },
+    "BODY": { "id": "air", "nbt": {}, "count": 0 }
+  },
+  "inventory": [
+    { "id": "cobblemon:poke_ball", "count": 15 },
+    { "id": "knowlogy:knowlogy_book", "count": 1 },
+    { "id": "academy:booster_pack", "count": 1 },
+    { "id": "academy:card_album", "count": 1 },
+    { "id": "cobblemon:pokedex_pink", "count": 5 },
+    { "id": "minecraft:emerald", "count": 5 },
+    { "id": "fwaystones:waystone", "count": 1 },
+    { "id": "sophisticatedbackpacks:backpack", "count": 1 }
+  ]
+}

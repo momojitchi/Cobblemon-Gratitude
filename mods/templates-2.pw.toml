@@ -1,0 +1,13 @@
+name = "Templates 2"
+filename = "templates-mod-2.5.1+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e182f2ba822aaccbedec39c429dbed7665da93b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6364582
+project-id = 1208338

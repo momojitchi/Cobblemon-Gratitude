@@ -1,0 +1,13 @@
+name = "Let's Parkour"
+filename = "letsparkour-1.21.1-1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92cb439338f4de6ec69a0b8a65b55878bc77a4ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5609603
+project-id = 1048375

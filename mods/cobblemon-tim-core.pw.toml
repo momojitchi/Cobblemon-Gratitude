@@ -1,0 +1,13 @@
+name = "Cobblemon Tim Core"
+filename = "timcore-fabric-1.7.1-1.29.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "27082d11aed98257f3af09fd76a0b5e0575a8665"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7504615
+project-id = 1295910

@@ -1,0 +1,13 @@
+name = "Cobblemon Scoremons"
+filename = "Scoremons-3.1+Cobblemon-1.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "963b92a106b69f4f9ff8adab650ba4d2c5817f31"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7274473
+project-id = 1210408

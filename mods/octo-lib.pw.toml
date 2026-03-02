@@ -1,0 +1,13 @@
+name = "ShatterLib | OctoLib"
+filename = "OctoLib-FABRIC-0.5.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "16174341e3b3733316608161ac86f6b2ea43ac49"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6011406
+project-id = 916747

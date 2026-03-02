@@ -1,0 +1,36 @@
+{
+  "name": "Hiker Maurice",
+  "team": [
+    {
+      "species": "graveler",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "defensecurl",
+        "rollout",
+        "smackdown",
+        "stealthrock"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "lowsweep",
+        "knockoff",
+        "strength"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

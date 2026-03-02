@@ -1,0 +1,20 @@
+{
+  "name": "Twins Teri",
+  "team": [
+    {
+      "species": "raichu",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "thunderbolt",
+        "lightscreen",
+        "growl"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

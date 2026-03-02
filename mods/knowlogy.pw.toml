@@ -1,0 +1,13 @@
+name = "Knowlogy Book"
+filename = "knowlogy-fabric-0.9.1-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f5a5447d0420a21b52df8f2333cd14ac23737163"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6749574
+project-id = 944409

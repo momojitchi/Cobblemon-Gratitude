@@ -1,0 +1,57 @@
+{
+    "pokemon": {
+        "species": "greninja",
+        "nature": "timid",
+        "level": 75,
+        "moves": [
+            "darkpulse",
+            "hydropump",
+            "watershuriken",
+            "gunkshot"
+        ]
+    },
+    "boss": {
+        "min_perfect_ivs": 6,
+        "level": 75,
+        "evs": {
+            "spa": 252,
+            "spe": 252,
+            "spd": 4
+        },
+         
+        "aspects": [],
+        "form": "",
+        "custom_properties": [
+            {
+                "name": "mega_evolution",
+                "value": "mega"
+            }
+        ]
+    },
+    "raid_tier": "TIER_SIX",
+    "raid_type": "WATER",
+    "raid_feature": "MEGA",
+     "loot_table": "cobblemonraiddens:raid/boss/greninja_mega",    
+    "weight": 20.0,
+    "den": [
+        "cobblemonraiddens:raid_den/fightingarena"
+         
+    ],
+    "boss_bar_text": {
+        "translate": "cobblemon.species.greninja.name",
+        "type": "translatable"
+    },
+    "max_players": 8,
+    "max_clears": 3,
+ 
+    "shiny_rate": 262,
+    "currency": 250000,
+    "max_catches": -1,
+ 
+    "raid_ai": "RCT",
+    "marks": [
+        "cobblemon:mark_mightiest"
+    ],
+    "lives": 1,
+    "energy": 25
+}

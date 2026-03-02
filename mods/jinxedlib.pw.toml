@@ -1,0 +1,13 @@
+name = "JinxedLib"
+filename = "jinxedlib-fabric-1.21.1-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0fe607e01e200b1a2031264b0b198f7a54fc56b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6727690
+project-id = 1203401

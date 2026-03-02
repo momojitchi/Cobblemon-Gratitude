@@ -1,0 +1,36 @@
+{
+  "name": "Police Officer Danny",
+  "team": [
+    {
+      "species": "hoothoot",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "timid",
+      "ability": "keeneye",
+      "moveset": [
+        "growl",
+        "psychoshift",
+        "airslash",
+        "extrasensory"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machoke",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "jolly",
+      "ability": "noguard",
+      "moveset": [
+        "lowkick",
+        "leer",
+        "lowsweep",
+        "knockoff"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

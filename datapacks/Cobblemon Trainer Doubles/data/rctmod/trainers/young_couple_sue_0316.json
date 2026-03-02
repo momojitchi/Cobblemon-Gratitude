@@ -1,0 +1,20 @@
+{
+  "name": "Young Couple Sue",
+  "team": [
+    {
+      "species": "meditite",
+      "gender": "FEMALE",
+      "level": 19,
+      "nature": "bashful",
+      "ability": "purepower",
+      "moveset": [
+        "lowkick",
+        "detect",
+        "forcepalm",
+        "psybeam"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

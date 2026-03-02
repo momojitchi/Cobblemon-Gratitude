@@ -1,0 +1,13 @@
+name = "Vanity: Core"
+filename = "vanity-fabric-1.21.1-5.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "22809baaf880fb65322469f71b011fe650bdc32e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5957579
+project-id = 548155

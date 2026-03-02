@@ -1,0 +1,13 @@
+name = "Advancement Frames"
+filename = "advancementframes-1.21-2.2.9-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01d01b0fe790cf1144054a1645843ca41804fae8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5829751
+project-id = 556795

@@ -1,0 +1,18 @@
+{
+  "scoreboardConfig": {
+    "objectives": [
+      {
+        "name": "deathCount",
+        "displayName": "§c☠ Death Count ☠",
+        "position": {
+          "field_11175": 0,
+          "field_11174": 0,
+          "field_11173": 0
+        },
+        "limit": 5
+      }
+    ]
+  },
+  "scoreboardRefreshInterval": 20,
+  "enableScoreboardHolograms": true
+}

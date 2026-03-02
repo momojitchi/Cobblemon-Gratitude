@@ -1,0 +1,13 @@
+name = "Cobblemon : Simple Pokecenter"
+filename = "cobblemon_simple_center-fabric-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c00598459fff0db0a0ea2efa2d22a0e34d8268c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7222095
+project-id = 1274465

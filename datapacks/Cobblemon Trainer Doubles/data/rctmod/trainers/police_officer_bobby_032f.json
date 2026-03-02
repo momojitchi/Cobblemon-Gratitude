@@ -1,0 +1,36 @@
+{
+  "name": "Police Officer Bobby",
+  "team": [
+    {
+      "species": "hoothoot",
+      "gender": "MALE",
+      "level": 18,
+      "nature": "sassy",
+      "ability": "keeneye",
+      "moveset": [
+        "growl",
+        "reflect",
+        "psychoshift",
+        "airslash"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "machop",
+      "gender": "FEMALE",
+      "level": 18,
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "focusenergy",
+        "lowsweep",
+        "knockoff"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

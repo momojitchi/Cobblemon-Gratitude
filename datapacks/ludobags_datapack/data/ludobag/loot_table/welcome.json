@@ -1,0 +1,12 @@
+{
+  "pools": [
+    { "rolls": 1, "entries": [ { "type": "minecraft:item", "name": "cobblemon:poke_ball", "functions": [ { "function": "minecraft:set_count", "count": 15 } ] } ] },
+    { "rolls": 1, "entries": [ { "type": "minecraft:item", "name": "knowlogy:knowlogy_book", "functions": [ { "function": "minecraft:set_count", "count": 1 } ] } ] },
+    { "rolls": 1, "entries": [ { "type": "minecraft:item", "name": "academy:booster_pack", "functions": [ { "function": "minecraft:set_count", "count": 1 } ] } ] },
+    { "rolls": 1, "entries": [ { "type": "minecraft:item", "name": "academy:card_album", "functions": [ { "function": "minecraft:set_count", "count": 1 } ] } ] },
+    { "rolls": 1, "entries": [ { "type": "minecraft:item", "name": "cobblemon:pokedex_pink", "functions": [ { "function": "minecraft:set_count", "count": 5 } ] } ] },
+    { "rolls": 1, "entries": [ { "type": "minecraft:item", "name": "minecraft:emerald", "functions": [ { "function": "minecraft:set_count", "count": 5 } ] } ] },
+    { "rolls": 1, "entries": [ { "type": "minecraft:item", "name": "fwaystones:waystone", "functions": [ { "function": "minecraft:set_count", "count": 1 } ] } ] },
+    { "rolls": 1, "entries": [ { "type": "minecraft:item", "name": "sophisticatedbackpacks:backpack", "functions": [ { "function": "minecraft:set_count", "count": 1 } ] } ] }
+  ]
+}

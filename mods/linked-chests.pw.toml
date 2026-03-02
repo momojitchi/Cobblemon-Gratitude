@@ -1,0 +1,13 @@
+name = "Linked Chests"
+filename = "LinkedChests-v21.1.0-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a7a422942aa53cec553ca7fc393ca92e879b8699"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6494113
+project-id = 1258307

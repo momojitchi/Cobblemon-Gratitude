@@ -1,0 +1,13 @@
+name = "Subtle Skybox"
+filename = "subtleskybox-fabric-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8acbd98815267c6b5045ad5db15bef894833c0aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6980616
+project-id = 1344151

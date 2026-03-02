@@ -1,0 +1,13 @@
+name = "Cobblemon Knowlogy"
+filename = "cobblemon_knowlogy-fabric-1.5.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78db99506a73b48410a4189d3ff70e253b23e26a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6749668
+project-id = 1144644

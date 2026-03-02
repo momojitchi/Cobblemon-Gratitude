@@ -1,0 +1,13 @@
+name = "Immersive UI"
+filename = "ImmersiveUI-FABRIC-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "565f14abb5ca93d6e921ce785d686856cd8e7619"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6023317
+project-id = 1021685

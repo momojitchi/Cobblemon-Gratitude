@@ -1,0 +1,50 @@
+{
+  "name": "Swimmer\u00e2\u2122\u201a Barry",
+  "team": [
+    {
+      "species": "shellder",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "docile",
+      "ability": "skilllink",
+      "moveset": [
+        "irondefense",
+        "icebeam",
+        "shellsmash",
+        "hydropump"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "cloyster",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "mild",
+      "ability": "skilllink",
+      "moveset": [
+        "spikecannon",
+        "iceshard",
+        "spikes",
+        "iciclecrash"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

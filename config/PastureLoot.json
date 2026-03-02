@@ -1,0 +1,8 @@
+{
+  "tick_per_minute": 1200,
+  "drop_chance_per_minute": 0.05,
+  "item_blacklist": [
+    "minecraft:white_tulip"
+  ],
+  "legacy_flatten_item_quantity": false
+}

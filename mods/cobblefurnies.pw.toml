@@ -1,0 +1,13 @@
+name = "CobbleFurnies"
+filename = "CobbleFurnies-fabric-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b174451734d3a424fa239612a5814572f76f77db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7302040
+project-id = 1188698

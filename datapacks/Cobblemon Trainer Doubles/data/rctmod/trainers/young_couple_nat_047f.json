@@ -1,0 +1,20 @@
+{
+  "name": "Young Couple Nat",
+  "team": [
+    {
+      "species": "misdreavus",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "calm",
+      "ability": "levitate",
+      "moveset": [
+        "growl",
+        "confusion",
+        "astonish",
+        "confuseray"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

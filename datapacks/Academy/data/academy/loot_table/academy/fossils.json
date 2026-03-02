@@ -1,0 +1,54 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+	 {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 2.0,
+                  "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:shiny_fossil",
+          "weight": 1
+        },
+	 {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 2.0,
+                  "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:max_iv_fossil",
+          "weight": 1
+        },
+	 {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                  "max": 2.0,
+                  "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "academy:ha_fossil",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

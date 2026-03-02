@@ -1,0 +1,13 @@
+name = "Player Ladder"
+filename = "playerladder-fabric-1.21-0.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ce791b00ecf2dd79b378453d19bb5d48b408a1c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5551517
+project-id = 577705

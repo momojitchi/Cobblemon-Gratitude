@@ -1,0 +1,220 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": { "type": "minecraft:uniform", "max": 4.0, "min": 2.0 }
+            }
+          ],
+          "name": "cobblemon:net_ball"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": { "type": "minecraft:uniform", "max": 4.0, "min": 2.0 }
+            }
+          ],
+          "name": "cobblemon:dive_ball"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": { "type": "minecraft:uniform", "max": 4.0, "min": 2.0 }
+            }
+          ],
+          "name": "cobblemon:nest_ball"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": { "type": "minecraft:uniform", "max": 4.0, "min": 2.0 }
+            }
+          ],
+          "name": "cobblemon:repeat_ball"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": { "type": "minecraft:uniform", "max": 4.0, "min": 2.0 }
+            }
+          ],
+          "name": "cobblemon:timer_ball"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": { "type": "minecraft:uniform", "max": 4.0, "min": 2.0 }
+            }
+          ],
+          "name": "cobblemon:luxury_ball"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": { "type": "minecraft:uniform", "max": 4.0, "min": 2.0 }
+            }
+          ],
+          "name": "cobblemon:dusk_ball"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": { "type": "minecraft:uniform", "max": 4.0, "min": 2.0 }
+            }
+          ],
+          "name": "cobblemon:heal_ball"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": { "type": "minecraft:uniform", "max": 4.0, "min": 2.0 }
+            }
+          ],
+          "name": "cobblemon:quick_ball"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": { "type": "minecraft:uniform", "max": 4.0, "min": 2.0 }
+            }
+          ],
+          "name": "cobblemon:safari_ball"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": { "type": "minecraft:uniform", "max": 4.0, "min": 2.0 }
+            }
+          ],
+          "name": "cobblemon:fast_ball"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": { "type": "minecraft:uniform", "max": 4.0, "min": 2.0 }
+            }
+          ],
+          "name": "cobblemon:level_ball"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": { "type": "minecraft:uniform", "max": 4.0, "min": 2.0 }
+            }
+          ],
+          "name": "cobblemon:lure_ball"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": { "type": "minecraft:uniform", "max": 4.0, "min": 2.0 }
+            }
+          ],
+          "name": "cobblemon:heavy_ball"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": { "type": "minecraft:uniform", "max": 4.0, "min": 2.0 }
+            }
+          ],
+          "name": "cobblemon:love_ball"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": { "type": "minecraft:uniform", "max": 4.0, "min": 2.0 }
+            }
+          ],
+          "name": "cobblemon:friend_ball"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": { "type": "minecraft:uniform", "max": 4.0, "min": 2.0 }
+            }
+          ],
+          "name": "cobblemon:moon_ball"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": { "type": "minecraft:uniform", "max": 4.0, "min": 2.0 }
+            }
+          ],
+          "name": "cobblemon:sport_ball"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "add": false,
+              "count": { "type": "minecraft:uniform", "max": 4.0, "min": 2.0 }
+            }
+          ],
+          "name": "cobblemon:park_ball"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

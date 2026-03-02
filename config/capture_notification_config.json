@@ -1,0 +1,20 @@
+{
+  "shiny_message": "%s a capturé un %s chromatique !",
+  "legendary_message": "%s a capturé le Pokémon légendaire %s !",
+  "ultra_beast_message": "%s a capturé l\u0027Ultra-Chimère %s !",
+  "mythical_message": "%s a capturé le Pokémon fabuleux %s !",
+  "ultra_rare_message": "%s a capturé le Pokémon ultra-rare %s !",
+  "demigod_message": "%s a capturé le Pokémon pseudo-légendaire %s !",
+  "enable_shiny_messages": true,
+  "enable_legendary_messages": true,
+  "enable_ultra_beast_messages": true,
+  "enable_mythical_messages": true,
+  "enable_ultra_rare_messages": true,
+  "enable_demigod_messages": true,
+  "shiny_color": "GOLD",
+  "legendary_color": "LIGHT_PURPLE",
+  "ultra_beast_color": "RED",
+  "mythical_color": "AQUA",
+  "ultra_rare_color": "DARK_PURPLE",
+  "demigod_color": "YELLOW"
+}

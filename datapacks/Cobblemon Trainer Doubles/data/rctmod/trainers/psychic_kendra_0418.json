@@ -1,0 +1,36 @@
+{
+  "name": "Psychic Kendra",
+  "team": [
+    {
+      "species": "chingling",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "bashful",
+      "ability": "levitate",
+      "moveset": [
+        "wrap",
+        "growl",
+        "confusion",
+        "yawn"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "chimecho",
+      "gender": "MALE",
+      "level": 55,
+      "nature": "calm",
+      "ability": "levitate",
+      "moveset": [
+        "lightscreen",
+        "healpulse",
+        "healbell",
+        "psychic"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

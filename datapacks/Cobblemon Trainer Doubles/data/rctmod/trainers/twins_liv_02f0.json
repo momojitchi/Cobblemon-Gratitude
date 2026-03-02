@@ -1,0 +1,20 @@
+{
+  "name": "Twins Liv",
+  "team": [
+    {
+      "species": "pachirisu",
+      "gender": "MALE",
+      "level": 9,
+      "nature": "quirky",
+      "ability": "pickup",
+      "moveset": [
+        "growl",
+        "babydolleyes",
+        "quickattack",
+        "charm"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ]
+}

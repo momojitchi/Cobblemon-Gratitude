@@ -1,0 +1,50 @@
+{
+  "name": "Pok\u00c3\u00a9maniac Herman",
+  "team": [
+    {
+      "species": "marowak",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "serious",
+      "ability": "rockhead",
+      "moveset": [
+        "focusenergy",
+        "bonemerang",
+        "rage",
+        "falseswipe"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "slowbro",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "naive",
+      "ability": "oblivious",
+      "moveset": [
+        "disable",
+        "headbutt",
+        "icywind",
+        "psybeam"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

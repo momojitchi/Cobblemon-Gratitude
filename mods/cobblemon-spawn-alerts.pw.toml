@@ -1,0 +1,13 @@
+name = "Cobblemon Spawn Alerts"
+filename = "cobblemon_spawn_alerts-fabric-1.11.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ddc3e447d90289f32a48bc8bdde0240cc8d3adb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7363541
+project-id = 1295053

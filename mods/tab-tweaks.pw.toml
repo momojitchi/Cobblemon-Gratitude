@@ -1,0 +1,13 @@
+name = "Tab Tweaks"
+filename = "tabtweaks-1.5.9+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38a1798e0ea3c6cd75dfd64339cf13ad6686a598"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6877626
+project-id = 1091949

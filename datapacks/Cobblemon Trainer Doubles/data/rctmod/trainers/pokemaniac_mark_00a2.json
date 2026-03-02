@@ -1,0 +1,50 @@
+{
+  "name": "Pok\u00c3\u00a9maniac Mark",
+  "team": [
+    {
+      "species": "rhyperior",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "naive",
+      "ability": "lightningrod",
+      "moveset": [
+        "takedown",
+        "stoneedge",
+        "earthquake",
+        "megahorn"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    },
+    {
+      "species": "lickilicky",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "quiet",
+      "ability": "owntempo",
+      "moveset": [
+        "screech",
+        "powerwhip",
+        "wringout",
+        "gyroball"
+      ],
+      "ivs": {
+        "hp": 10,
+        "atk": 10,
+        "def": 10,
+        "spa": 10,
+        "spd": 10,
+        "spe": 10
+      },
+      "evs": {}
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

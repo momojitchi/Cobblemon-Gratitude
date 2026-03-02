@@ -1,0 +1,13 @@
+name = "Cobblemon Firework Capsules"
+filename = "fireworkcapsules-fabric-1.1.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d54e17e1abe36cd68da204a8e8531bc203565762"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7273767
+project-id = 1236675

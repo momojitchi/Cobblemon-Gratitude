@@ -1,0 +1,13 @@
+name = "CobbledGacha v.3 [Cobblemon 1.7] [Fabric/NeoForge 1.21.1]"
+filename = "cobbledgacha-fabric-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a9f2247cbeddc9c6f7f45d3c32ebbe5edbfbac59"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7413026
+project-id = 1419903

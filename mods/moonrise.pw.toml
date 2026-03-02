@@ -1,0 +1,16 @@
+name = "Moonrise"
+filename = "Moonrise-Fabric-0.1.0-beta.15+2eae1b1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7556e6a30373fdf0b62aca6a933fa09783b6b12e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7089176
+project-id = 1096335
+
+[option]
+optional = true

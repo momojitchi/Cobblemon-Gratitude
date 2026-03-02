@@ -1,0 +1,13 @@
+name = "Nyctography"
+filename = "nyctography-fabric-1.21.1-21.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a9f39d36521d7180c8dfe5365a952889e64be85c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7115341
+project-id = 1126493

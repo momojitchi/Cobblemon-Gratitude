@@ -1,0 +1,25 @@
+{
+  "enabled": "true",
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "screamtail-1",
+      "pokemon": "screamtail",
+      "presets": [
+        "natural",
+        "deep_dark"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "48-80",
+      "weight": 0.3,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_dripstone"
+        ]
+      }
+    }
+  ]
+}

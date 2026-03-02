@@ -1,0 +1,33 @@
+{
+  "name": "Bug Catcher Brandon",
+  "team": [
+    {
+      "species": "kricketune",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "timid",
+      "ability": "swarm",
+      "moveset": [
+        "strugglebug",
+        "absorb",
+        "sing",
+        "focusenergy"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "silcoon",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "timid",
+      "ability": "shedskin",
+      "moveset": [
+        "harden"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

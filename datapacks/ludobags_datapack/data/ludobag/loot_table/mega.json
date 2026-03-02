@@ -1,0 +1,11 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        { "type": "minecraft:item", "name": "minecraft:diamond", "weight": 50 },
+        { "type": "minecraft:item", "name": "minecraft:netherite_ingot", "weight": 50 }
+      ]
+    }
+  ]
+}

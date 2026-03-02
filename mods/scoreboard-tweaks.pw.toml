@@ -1,0 +1,13 @@
+name = "Scoreboard Tweaks"
+filename = "scoreboardtweaks-1.3.4+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a7d57d2b668062f3f311ccd94d6215f1cb1dad8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6668275
+project-id = 1091695

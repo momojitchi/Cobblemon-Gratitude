@@ -1,0 +1,256 @@
+{
+  "enabled": true,
+  "spawns": [
+
+    // ==========================================
+    // 🌳 FOREST & BIRCH FOREST (Forêts)
+    // ==========================================
+    {
+      "id": "safari_galar_ponyta",
+      "pokemon": "ponyta galarian",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "rare", "weight": 2.0, "level": "25-30",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:forest", "minecraft:birch_forest"] }
+    },
+    {
+      "id": "safari_scyther",
+      "pokemon": "scyther",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "uncommon", "weight": 5.0, "level": "25-35",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:forest", "minecraft:birch_forest"] }
+    },
+    {
+      "id": "safari_hisuian_voltorb",
+      "pokemon": "voltorb hisuian",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "uncommon", "weight": 6.0, "level": "25-30",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:forest", "minecraft:birch_forest"] }
+    },
+    {
+      "id": "safari_mimikyu",
+      "pokemon": "mimikyu",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "ultra-rare", "weight": 0.5, "level": "30-35",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:forest"], "timeRange": "night" }
+    },
+
+    // ==========================================
+    // 🌲 TAIGA (Taïga - Frais et Montagneux)
+    // ==========================================
+    {
+      "id": "safari_lucario",
+      "pokemon": "lucario",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "ultra-rare", "weight": 0.5, "level": "35-45",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:taiga", "minecraft:old_growth_pine_taiga"] }
+    },
+    {
+      "id": "safari_absol",
+      "pokemon": "absol",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "rare", "weight": 1.5, "level": "30-40",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:taiga", "minecraft:old_growth_pine_taiga"] }
+    },
+    {
+      "id": "safari_galar_meowth",
+      "pokemon": "meowth galarian",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "common", "weight": 8.0, "level": "20-30",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:taiga"] }
+    },
+
+    // ==========================================
+    // ❄️ SNOWY TAIGA (Neige & Glace)
+    // ==========================================
+    {
+      "id": "safari_alolan_vulpix",
+      "pokemon": "vulpix alolan",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "uncommon", "weight": 4.0, "level": "20-30",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:snowy_taiga", "minecraft:snowy_slopes"] }
+    },
+    {
+      "id": "safari_hisuian_zorua",
+      "pokemon": "zorua hisuian",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "rare", "weight": 1.5, "level": "25-35",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:snowy_taiga"], "timeRange": "night" }
+    },
+    {
+      "id": "safari_galar_darumaka",
+      "pokemon": "darumaka galarian",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "uncommon", "weight": 5.0, "level": "25-35",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:snowy_taiga"] }
+    },
+
+    // ==========================================
+    // 🌴 JUNGLE (Jungle)
+    // ==========================================
+    {
+      "id": "safari_alolan_exeggutor",
+      "pokemon": "exeggutor alolan",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "rare", "weight": 1.0, "level": "35-45",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:jungle", "minecraft:bamboo_jungle"] }
+    },
+    {
+      "id": "safari_heracross",
+      "pokemon": "heracross",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "rare", "weight": 2.0, "level": "25-35",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:jungle", "minecraft:bamboo_jungle"] }
+    },
+    {
+      "id": "safari_oranguru",
+      "pokemon": "oranguru",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "uncommon", "weight": 4.0, "level": "28-35",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:jungle"] }
+    },
+
+    // ==========================================
+    // 🐸 SWAMP (Marais & Eau Sombre)
+    // ==========================================
+    {
+      "id": "safari_hisuian_goomy",
+      "pokemon": "goomy hisuian",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "rare", "weight": 1.5, "level": "30-40",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:swamp", "minecraft:mangrove_swamp"] }
+    },
+    {
+      "id": "safari_paldean_wooper",
+      "pokemon": "wooper paldean",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "common", "weight": 10.0, "level": "15-25",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:swamp", "minecraft:mangrove_swamp"] }
+    },
+    {
+      "id": "safari_dreepy",
+      "pokemon": "dreepy",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "ultra-rare", "weight": 0.5, "level": "25-35",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:swamp"], "timeRange": "night" }
+    },
+
+    // ==========================================
+    // 🏜️ DESERT (Désert)
+    // ==========================================
+    {
+      "id": "safari_larvitar",
+      "pokemon": "larvitar",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "rare", "weight": 1.0, "level": "15-25",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:desert"] }
+    },
+    {
+      "id": "safari_gible",
+      "pokemon": "gible",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "rare", "weight": 1.0, "level": "15-25",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:desert"] }
+    },
+    {
+      "id": "safari_galar_yamask",
+      "pokemon": "yamask galarian",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "uncommon", "weight": 4.0, "level": "25-35",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:desert"], "timeRange": "night" }
+    },
+
+    // ==========================================
+    // 🦁 SAVANNAH (Savane)
+    // ==========================================
+    {
+      "id": "safari_kangaskhan",
+      "pokemon": "kangaskhan",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "rare", "weight": 1.5, "level": "30-40",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:savanna", "minecraft:savanna_plateau"] }
+    },
+    {
+      "id": "safari_hisuian_growlithe",
+      "pokemon": "growlithe hisuian",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "uncommon", "weight": 5.0, "level": "20-30",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:savanna"] }
+    },
+
+    // ==========================================
+    // 🌸 FLOWERY FIELDS (Champs de fleurs)
+    // ==========================================
+    {
+      "id": "safari_chansey",
+      "pokemon": "chansey",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "ultra-rare", "weight": 0.5, "level": "35-45",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:flower_forest", "minecraft:meadow", "minecraft:sunflower_plains"] }
+    },
+    {
+      "id": "safari_eevee",
+      "pokemon": "eevee",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "rare", "weight": 2.0, "level": "15-25",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:flower_forest", "minecraft:meadow"] }
+    },
+    {
+      "id": "safari_togepi",
+      "pokemon": "togepi",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "uncommon", "weight": 5.0, "level": "10-20",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:flower_forest", "minecraft:meadow"] }
+    },
+
+    // ==========================================
+    // 🍄 MUSHROOM ISLAND (Île Champignon)
+    // ==========================================
+    {
+      "id": "safari_toedscool",
+      "pokemon": "toedscool",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "uncommon", "weight": 4.0, "level": "20-30",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:mushroom_fields"] }
+    },
+    {
+      "id": "safari_shroomish",
+      "pokemon": "shroomish",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "common", "weight": 8.0, "level": "15-25",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["minecraft:mushroom_fields"] }
+    },
+
+    // ==========================================
+    // 🌋 VOLCANO (Volcan / Terres Déolées)
+    // ==========================================
+    // (J'utilise les tags #c:is_volcanic et basalt_deltas pour que ça marche avec n'importe quel mod de biomes)
+    {
+      "id": "safari_alolan_marowak",
+      "pokemon": "marowak alolan",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "rare", "weight": 1.5, "level": "35-45",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["#c:is_volcanic", "minecraft:basalt_deltas"] }
+    },
+    {
+      "id": "safari_larvesta",
+      "pokemon": "larvesta",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "ultra-rare", "weight": 0.5, "level": "30-40",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["#c:is_volcanic", "minecraft:basalt_deltas"] }
+    },
+    {
+      "id": "safari_beldum",
+      "pokemon": "beldum",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "ultra-rare", "weight": 0.5, "level": "20-30",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["#c:is_volcanic", "minecraft:basalt_deltas"] }
+    },
+    {
+      "id": "safari_turtonator",
+      "pokemon": "turtonator",
+      "presets": ["natural"],
+      "type": "pokemon", "context": "grounded", "bucket": "rare", "weight": 2.0, "level": "35-45",
+      "condition": { "dimensions": ["academy:safari"], "biomes": ["#c:is_volcanic", "minecraft:basalt_deltas"] }
+    }
+  ]
+}

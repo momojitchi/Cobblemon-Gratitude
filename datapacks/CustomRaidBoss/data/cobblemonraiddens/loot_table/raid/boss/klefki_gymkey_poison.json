@@ -1,0 +1,46 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "cobblemon:poison_gem"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "mega_showdown:poison_tera_shard",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "rad-gyms:gym_key",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "rad-gyms:gym_type_component": "poison"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

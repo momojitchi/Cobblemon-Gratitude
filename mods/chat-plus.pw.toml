@@ -1,0 +1,13 @@
+name = "ChatPlus"
+filename = "chatplus-fabric-2.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4a4090d30b3265293c381eda7839ef2ad5c5071"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6926465
+project-id = 1023333

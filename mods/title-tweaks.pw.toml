@@ -1,0 +1,13 @@
+name = "Title Tweaks"
+filename = "titletweaks-1.1.5+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3c08cfce56aa2ad6fd3213a457340ac2c853faa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6663237
+project-id = 1093171

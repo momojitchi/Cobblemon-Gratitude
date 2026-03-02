@@ -1,0 +1,13 @@
+name = "Cobblemon Unchained"
+filename = "unchained-fabric-1.7.1-1.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "904370e5d6c3d4e8d54358ed34eb1735f7ecd522"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7280599
+project-id = 901476

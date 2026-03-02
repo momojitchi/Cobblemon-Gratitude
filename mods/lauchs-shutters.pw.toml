@@ -1,0 +1,13 @@
+name = "The New Shutters"
+filename = "shutter-2.1.2-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1099011cc8f29f7408a2cf568341336f89c4c947"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6103351
+project-id = 714019

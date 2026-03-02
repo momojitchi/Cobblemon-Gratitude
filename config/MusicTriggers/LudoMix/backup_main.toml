@@ -1,0 +1,145 @@
+[triggers]
+	[triggers.universal]
+		fade_in = "10"
+		fade_out = "30"
+		persistence = "0"
+		start_delay = "0"
+		trigger_delay = "0"
+		song_delay = "0"
+		stop_delay = "0"
+
+	[[triggers.dimension]]
+		identifier = "dimension_Raid"
+		priority = "4100"
+		resource_matcher = "exact"
+		resource_name = [ "cobblemonraiddens:raid_dimension_type" ]
+
+	[[triggers.biome]]
+		identifier = "biome_Gym"
+		priority = "4100"
+		resource_matcher = "exact"
+		resource_name = [ "rad-gyms:gym_biome" ]
+
+	[[triggers.structure]]
+		identifier = "structure_Pokecenter"
+		priority = "3200"
+		resource_name = [ "cobblemon_simple_center:pokecenter" ]
+		fade_in = "10"
+		fade_out = "30"
+
+	[[triggers.zones]]
+		identifier = "zone_Hub"
+		priority = "3300"
+		fade_in = "10"
+		fade_out = "30"
+		persistence = "0"
+		zone_min_x = "-30"
+		zone_max_x = "200"
+		zone_min_y = "57"
+		zone_max_y = "120"
+		zone_min_z = "-110"
+		zone_max_z = "130"
+
+	[[triggers.zones]]
+		identifier = "zone_PokeCenter"
+		priority = "3400"
+		fade_in = "10"
+		fade_out = "30"
+		persistence = "0"
+		zone_min_x = "129"
+		zone_max_x = "145"
+		zone_min_y = "58"
+		zone_max_y = "73"
+		zone_min_z = "26"
+		zone_max_z = "44"
+
+	[[triggers.zones]]
+		identifier = "zone_PokeMart"
+		priority = "3400"
+		fade_in = "10"
+		fade_out = "30"
+		persistence = "0"
+		zone_min_x = "45"
+		zone_max_x = "66"
+		zone_min_y = "45"
+		zone_max_y = "77"
+		zone_min_z = "46"
+		zone_max_z = "64"
+
+	[[triggers.zones]]
+		identifier = "zone_Academy"
+		priority = "3400"
+		fade_in = "10"
+		fade_out = "30"
+		persistence = "0"
+		zone_min_x = "60"
+		zone_max_x = "120"
+		zone_min_y = "58"
+		zone_max_y = "90"
+		zone_min_z = "-87"
+		zone_max_z = "-46"
+
+	[[triggers.zones]]
+		identifier = "zone_Laboratory"
+		priority = "3400"
+		fade_in = "10"
+		fade_out = "30"
+		persistence = "0"
+		zone_min_x = "88"
+		zone_max_x = "115"
+		zone_min_y = "70"
+		zone_max_y = "96"
+		zone_min_z = "98"
+		zone_max_z = "121"
+
+	[[triggers.zones]]
+		identifier = "zone_CardShop"
+		priority = "3400"
+		fade_in = "10"
+		fade_out = "30"
+		persistence = "0"
+		zone_min_x = "31"
+		zone_max_x = "44"
+		zone_min_y = "58"
+		zone_max_y = "74"
+		zone_min_z = "20"
+		zone_max_z = "40"
+
+[songs]
+	[[songs.raid_music]]
+		triggers = [ "dimension-dimension_Raid" ]
+		volume = "0.5"
+
+	[[songs.pokemon_gym]]
+		triggers = [ "biome-biome_Gym" ]
+		volume = "0.5"
+
+	[[songs.hub_music]]
+		triggers = [ "zones-zone_Hub" ]
+		volume = "0.5"
+
+	[[songs.pokemon_center]]
+		triggers = [ "zones-zone_PokeCenter" ]
+		volume = "0.5"
+
+	[[songs.pokemon_center]]
+		triggers = [ "structure-structure_Pokecenter" ]
+		volume = "0.5"
+
+	[[songs.pokemart]]
+		triggers = [ "zones-zone_PokeMart" ]
+		volume = "0.5"
+
+	[[songs.pokeschool]]
+		triggers = [ "zones-zone_Academy" ]
+		volume = "0.5"
+
+	[[songs.pokelabo]]
+		triggers = [ "zones-zone_Laboratory" ]
+		volume = "0.5"
+
+	[[songs.pokestcg]]
+		triggers = [ "zones-zone_CardShop" ]
+		volume = "0.5"
+
+[songs.universal]

@@ -1,0 +1,36 @@
+{
+  "name": "PI Kendrick",
+  "team": [
+    {
+      "species": "goldeen",
+      "gender": "FEMALE",
+      "level": 22,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "peck",
+        "tailwhip",
+        "waterpulse",
+        "hornattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "goldeen",
+      "gender": "FEMALE",
+      "level": 22,
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "peck",
+        "tailwhip",
+        "waterpulse",
+        "hornattack"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

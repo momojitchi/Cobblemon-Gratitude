@@ -1,0 +1,36 @@
+{
+  "name": "Pok\u00c3\u00a9 Fan Meredith",
+  "team": [
+    {
+      "species": "marill",
+      "gender": "MALE",
+      "level": 21,
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "tailwhip",
+        "helpinghand",
+        "aquatail",
+        "playrough"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "aipom",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "bashful",
+      "ability": "pickup",
+      "moveset": [
+        "tailwhip",
+        "sandattack",
+        "tickle",
+        "furyswipes"
+      ],
+      "ivs": {},
+      "evs": {}
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

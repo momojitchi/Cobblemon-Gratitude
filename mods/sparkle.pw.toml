@@ -1,0 +1,13 @@
+name = "Sparkle"
+filename = "sparkle-3.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d38500c699e90fe017a93f70368251e826b58a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6427377
+project-id = 580714

@@ -1,0 +1,13 @@
+name = "Rad Gyms [Cobblemon]"
+filename = "Rad Gyms [Cobblemon]-0.3.1-stable.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2432aeb00f5a317659213afd8a97a54f748e1154"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7306130
+project-id = 1196570

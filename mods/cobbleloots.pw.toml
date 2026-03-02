@@ -1,0 +1,13 @@
+name = "Cobbleloots: Loot Balls and More!"
+filename = "cobbleloots-fabric-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc90a64cb54d63aebcd05d4ded453ed24c13db66"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7262693
+project-id = 1037611

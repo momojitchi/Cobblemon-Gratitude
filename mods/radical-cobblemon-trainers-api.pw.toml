@@ -1,0 +1,13 @@
+name = "Radical Cobblemon Trainers API"
+filename = "rctapi-fabric-1.21.1-0.14.6-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29afe413a527db44846c5d21757145c89082ae77"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7483015
+project-id = 1152792

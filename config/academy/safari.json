@@ -1,0 +1,52 @@
+{
+  "seed": -22,
+  "structure": "academy:safari_spawn",
+  "placementOffset": [
+    0,
+    0,
+    0
+  ],
+  "spawnPositionRelative": [
+    32,
+    122,
+    -31
+  ],
+  "spawnYaw": -180.0,
+  "spawnPitch": 0.0,
+  "playerDuration": 36000,
+  "providedSafariBalls": 0,
+  "startEpoch": 25200000,
+  "restartDelay": 86400000,
+  "paused": false,
+  "resetWorld": false,
+  "tickets": {
+    "base": {
+      "name": "Safari Ticket",
+      "color": 16777215,
+      "model": "academy:safari_ticket/base#inventory",
+      "time": {
+        "type": "constant",
+        "count": 12000
+      }
+    },
+    "great": {
+      "name": "Great Safari Ticket",
+      "color": 11287604,
+      "model": "academy:safari_ticket/great#inventory",
+      "time": {
+        "type": "constant",
+        "count": 30000
+      }
+    },
+    "golden": {
+      "name": "Golden Safari Ticket",
+      "color": 13927452,
+      "model": "academy:safari_ticket/golden#inventory",
+      "time": {
+        "type": "uniform",
+        "min": 48000,
+        "max": 72000
+      }
+    }
+  }
+}

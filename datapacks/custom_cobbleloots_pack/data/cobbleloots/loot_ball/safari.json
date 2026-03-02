@@ -1,0 +1,8 @@
+{
+  "sources": {
+    "spawning": [
+      { "weight": 10, "biome": "academy:safari" },
+      { "weight": 10, "biome": "#minecraft:is_savanna" }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": { "text": "Fossil Ball", "color": "gold" },
+  "loot_table": "cobbleloots:loot_ball/fossil_loot",
+  "texture": "cobbleloots:textures/loot_ball/rainbow.png",
+  "xp": 50,
+  "variants": {
+    "default": {
+      "name": { "text": "Fossil Ball" },
+      "loot_table": "cobbleloots:loot_ball/fossil_loot"
+    }
+  }
+}
