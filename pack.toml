@@ -1,0 +1,12 @@
+name = "Cobblemon Gratitude"
+version = "1.0.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e082bfa7d8fcee1267e3ec489100e4e94f7decfc856e230143a06ec4fe5042b8"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.1"
